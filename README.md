@@ -13,3 +13,5 @@ generates a basic excel file.
 Later versions to have
 Better interface
 More options for simulations
+
+To run, run main.py.
